@@ -1,0 +1,500 @@
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll.config
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.pdb
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Antlr3.Runtime.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\EntityFramework.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Newtonsoft.Json.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Owin.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.Helpers.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.Mvc.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.Optimization.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.Razor.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.WebPages.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\WebGrease.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.Helpers.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.Mvc.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.Optimization.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.Razor.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.WebPages.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Newtonsoft.Json.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Antlr3.Runtime.pdb
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\EntityFramework.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.dll
+E:\Proma\CourseResultMVCWebApp\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll.config
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Antlr3.Runtime.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Newtonsoft.Json.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.Helpers.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.Mvc.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.Optimization.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.WebPages.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\WebGrease.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.Helpers.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.Mvc.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.Optimization.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.WebPages.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Newtonsoft.Json.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version2\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll.config
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Antlr3.Runtime.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Newtonsoft.Json.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.Helpers.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.Mvc.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.Optimization.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.WebPages.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\WebGrease.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.Helpers.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.Mvc.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.Optimization.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.WebPages.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Newtonsoft.Json.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version3\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll.config
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Antlr3.Runtime.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Newtonsoft.Json.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.Helpers.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.Mvc.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.Optimization.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.WebPages.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\WebGrease.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.Helpers.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.Mvc.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.Optimization.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.WebPages.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Newtonsoft.Json.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version4\CourseResultMVCWebApp\bin\Rotativa.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll.config
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Antlr3.Runtime.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Newtonsoft.Json.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Rotativa.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.Helpers.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.Mvc.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.Optimization.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.WebPages.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\WebGrease.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.Helpers.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.Mvc.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.Optimization.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.WebPages.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Newtonsoft.Json.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version6 template\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll.config
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Antlr3.Runtime.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Newtonsoft.Json.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Rotativa.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.Helpers.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.Mvc.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.Optimization.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\WebGrease.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.Helpers.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.Mvc.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.Optimization.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Newtonsoft.Json.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version8 after merge\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll.config
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Antlr3.Runtime.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Newtonsoft.Json.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Rotativa.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.Helpers.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.Mvc.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.Optimization.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\WebGrease.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.Helpers.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.Mvc.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.Optimization.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Newtonsoft.Json.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version9 after merge\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll.config
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Antlr3.Runtime.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Newtonsoft.Json.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Rotativa.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.Helpers.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.Mvc.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.Optimization.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.WebPages.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\WebGrease.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.Helpers.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.Mvc.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.Optimization.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.WebPages.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Newtonsoft.Json.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version10 template\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll.config
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Antlr3.Runtime.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Newtonsoft.Json.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Owin.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Rotativa.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.Helpers.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.Mvc.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.Optimization.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.WebPages.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\WebGrease.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.Helpers.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.Mvc.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.Optimization.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.WebPages.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Newtonsoft.Json.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.dll
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.pdb
+E:\BITM\Project\University Management System\CourseResultMVCWebApp - Version11 with latest template\CourseResultMVCWebApp\obj\Debug\CourseResultMVCWebApp.csprojResolveAssemblyReference.cache

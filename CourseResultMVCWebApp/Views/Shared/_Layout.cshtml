@@ -1,0 +1,286 @@
+﻿<!DOCTYPE html>
+<html>
+<style>
+    .input-validation-error {
+        border: 1px solid red;
+    }
+
+    .field-validation-error {
+        color: red;
+        font-style: italic;
+    }
+</style>
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>University Management System</title>
+    <!-- plugins:css -->
+    <link href="~/vendors/iconfonts/mdi/css/materialdesignicons.min.css" rel="stylesheet"/>
+    <link href="~/vendors/css/vendor.bundle.base.css" rel="stylesheet"/>
+    <link href="~/vendors/css/vendor.bundle.addons.css" rel="stylesheet"/>
+    <!-- endinject -->
+    <!-- plugin css for this page -->
+    <!-- End plugin css for this page -->
+    <!-- inject:css -->
+    <link href="~/css/style.css" rel="stylesheet"/>
+    <!-- endinject -->
+    <link rel="shortcut icon" href="../../images/favicon.png"/>
+    @RenderSection("styles", required: false)
+
+</head>
+<body>
+<div class="container-scroller">
+<!-- partial:../../partials/_navbar.html -->
+<nav class="navbar default-layout col-lg-12 col-12 p-0  d-flex flex-row">
+    @*<div class="text-center navbar-brand-wrapper d-flex align-items-top justify-content-center">
+                <a class="navbar-brand brand-logo" href="../../index.html">
+                    <img src="../../images/logo.svg" alt="logo" />
+                </a>
+                <a class="navbar-brand brand-logo-mini" href="../../index.html">
+                    <img src="../../images/logo-mini.svg" alt="logo" />
+                </a>
+            </div>*@
+    <div class="navbar-menu-wrapper d-flex align-items-center">
+        <ul class="navbar-nav navbar-nav-left header-links d-none d-md-flex">
+           
+              
+                    <h1>UNIVERSITY MANAGEMENT </h1>
+
+           
+           
+            <li class="nav-item">
+                <a href="#" class="nav-link">
+                    Schedule
+                   
+                </a>
+            </li>
+            <li class="nav-item active">
+                <a href="#" class="nav-link">
+                    <i class="mdi mdi-elevation-rise"></i>Reports
+                </a>
+            </li>
+           
+        </ul>
+
+        <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+            <span class="mdi mdi-menu"></span>
+        </button>
+    </div>
+</nav>
+<!-- partial -->
+<div class="container-fluid page-body-wrapper">
+    <!-- partial:../../partials/_sidebar.html -->
+
+    <nav class="sidebar sidebar-offcanvas" id="sidebar">
+        <ul class="nav">
+            <li class="nav-item nav-profile">
+                <div class="nav-link">
+                    <div class="user-wrapper">
+                        <div class="profile-image">
+                            @*<img src="../../images/faces/face1.jpg" alt="profile image">*@
+
+                        </div>
+                        <div class="text-wrapper">
+                            <p class="profile-name">Proma</p>
+                            <div>
+                                <small class="designation text-muted">Manager</small>
+                                <span class="status-indicator online"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+
+
+
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#department" aria-expanded="false" aria-controls="department">
+                    <i class="menu-icon mdi mdi-content-copy"></i>
+                    <span class="menu-title">Department</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="department">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Save Department", "SaveDept", "Department")
+                        </li>
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Show all departments", "ShowDept", "Department")
+                        </li>
+
+                    </ul>
+                </div>
+            </li>
+
+
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#course" aria-expanded="false" aria-controls="course">
+                    <i class="menu-icon mdi mdi-content-copy"></i>
+                    <span class="menu-title">Course</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="course">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Save Course", "SaveCourse", "Course")
+                        </li>
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("View Course Static", "ViewCourseStatic", "Course")
+                        </li>
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Unassign All courses", "Unassign", "Unassign")
+                        </li>
+                    </ul>
+                </div>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#Teacher" aria-expanded="false" aria-controls="Teacher">
+                    <i class="menu-icon mdi mdi-content-copy"></i>
+                    <span class="menu-title">Teacher</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="Teacher">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Save Teacher", "SaveTeacher", "Teacher")
+                        </li>
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Course assign to teacher", "CourseAssign", "CourseAssign")
+                        </li>
+
+                    </ul>
+                </div>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#student" aria-expanded="false" aria-controls="student">
+                    <i class="menu-icon mdi mdi-content-copy"></i>
+                    <span class="menu-title">Student</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="student">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Register student", "SaveStudent", "Student")
+                        </li>
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Enroll in a course", "EnrollCourse", "EnrollCourse")
+                        </li>
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Save student result", "SaveResult", "StudentResult")
+                        </li>
+
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("View student result", "ViewResult", "Student")
+                        </li>
+                    </ul>
+                </div>
+            </li>
+
+
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#classrooms" aria-expanded="false" aria-controls="classrooms">
+                    <i class="menu-icon mdi mdi-content-copy"></i>
+                    <span class="menu-title">Classrooms</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="classrooms">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Allocate Classroom", "SaveRoom", "AllocateClassroom")
+                        </li>
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Show room information", "ShowRoom", "AllocateClassroom")
+                        </li>
+                        <li class="nav-item">
+                        <li class="nav-link">
+                            @Html.ActionLink("Unallocate Classroom", "UnallocateRoom", "Unassign")
+                        </li>
+
+                    </ul>
+                </div>
+            </li>
+
+        </ul>
+    </nav>
+    <!-- partial -->
+    <!-- main-panel ends -->
+
+    <div class="main-panel">
+        <div class="content-wrapper">
+            <div class="container body-content">
+                <div class="card">
+                    <div class="card-body">
+                        @RenderBody()
+                        <hr/>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- content-wrapper ends -->
+        <!-- partial:../../partials/_footer.html -->
+        <footer class="footer">
+            <div class="container-fluid clearfix">
+                <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">
+                           
+                            <p>&copy; @DateTime.Now.Year - University Management System</p>
+                        </span>
+                <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">
+                            Hand-crafted & made with
+                            <i class="mdi mdi-heart text-danger"></i>
+                        </span>
+            </div>
+        </footer>
+
+        <!-- partial -->
+    </div>
+    <!-- main-panel ends -->
+</div>
+<!-- page-body-wrapper ends -->
+</div>
+<!-- container-scroller -->
+<!-- plugins:js -->
+@RenderSection("scripts", required: false)
+<script src="../../vendors/js/vendor.bundle.base.js"></script>
+<script src="../../vendors/js/vendor.bundle.addons.js"></script>
+<!-- endinject -->
+<!-- Plugin js for this page-->
+<!-- End plugin js for this page-->
+<!-- inject:js -->
+<script src="../../js/off-canvas.js"></script>
+<script src="../../js/misc.js"></script>
+<!-- endinject -->
+<!-- Custom js for this page-->
+<!-- End custom js for this page-->
+@*<div class="container body-content">
+            <br/><br/>
+            @RenderBody()
+            <hr/>
+            <footer>
+                <p>&copy; @DateTime.Now.Year - University Management System</p>
+            </footer>
+        </div>*@
+
+
+
+</body>
+</html>

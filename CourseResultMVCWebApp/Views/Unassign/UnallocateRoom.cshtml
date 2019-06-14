@@ -1,0 +1,50 @@
+﻿
+@{
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UnallocateRoom</title>
+</head>
+<body>
+<div>
+    <fieldset>
+        <legend>Unallocate Rooms</legend>
+
+        <form method="POST" id="unallocateForm">
+            <table>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" class="btn btn-success mr-2" id="unallocateRooms" value="Unallocate Rooms" name="unallocateRooms" style="width: 200px" />
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </fieldset>
+    <div style="color: green">@ViewBag.Message</div>
+
+</div>
+@section scripts{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $(function () {
+            $('#unallocateRooms').on('click', function () {
+                var message = confirm("Are you sure?");
+                if (message === false) {
+                    return false;
+                } else {
+                    return true;
+                }
+            });
+        });
+    </script>
+    }
+
+</body>
+</html>

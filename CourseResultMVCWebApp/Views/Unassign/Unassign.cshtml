@@ -1,0 +1,55 @@
+﻿@{
+   
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Unassign</title>
+</head>
+<body>
+<div>
+    <fieldset>
+
+        <legend> Unassign Course</legend>
+
+        <form method="POST" id="unassignForm">
+            <table>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" class="btn btn-success mr-2" id="Unassign" value="Unassign Courses" name="Unassign" " />
+                    </td>
+                </tr>
+            </table>
+        </form>
+        @*<div style="color: green">@ViewBag.Message1</div>
+        <div style="color: green">@ViewBag.Message2</div>
+        <div style="color: green">@ViewBag.Message3</div>*@
+        <div style="color: green">@ViewBag.SuccessMessage</div>
+    </fieldset>
+</div>
+    @section scripts{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+
+        <script>
+            $(function() {
+                $('#Unassign').on('click', function() {
+
+                    //  var message =  Swal.fire('Any fool can use a computer');
+                    var message = confirm("Are you sure?");
+                    if (message === false) {
+                        return false;
+                    } else {
+                        return true;
+                    }
+                });
+            });
+        </script>
+       
+    }
+</body>
+</html>

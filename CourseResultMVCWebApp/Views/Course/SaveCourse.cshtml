@@ -1,0 +1,136 @@
+﻿@using CourseResultMVCWebApp.Models
+
+@{
+    ViewBag.Title = "SaveCourse";
+    List<Department> departments = ViewBag.Departments;
+
+
+    List<Semester> semesters = ViewBag.Semesters;
+    string message = ViewBag.message;
+
+}
+
+
+
+
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "SaveCourseForm" }))
+{
+    <div>
+        <legend>Save Course</legend>
+
+        <div class="form-group">
+
+            <label for="Code">Code :</label>
+            <input class="form-control" type="text" id="Code" name="Code" />
+
+        </div>
+
+        <div class="form-group">
+            <label for="Name">Name :</label>
+            <input class="form-control" type="text" id="Name" name="Name" />
+
+        </div>
+
+
+        <div class="form-group">
+
+            <label for="Credit">Credit :</label>
+            <input class="form-control" type="text" id="Credit" name="Credit" />
+
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="Description">Description :</label>
+
+            <input class="form-control" type="text" id="Description" name="Description" />
+        </div>
+
+        <div class="form-group">
+
+            <label for="DepartmentId">Department :</label>
+            <select id="DepartmentId" name="DepartmentId" class="form-control" style="width: 273px;">
+                <option selected disabled>--Select Department--</option>
+                @foreach (Department aDepartment in departments)
+                {
+                    <option value="@aDepartment.Id">@aDepartment.Name</option>
+                }
+
+            </select>
+
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="SemesterId">Semester :</label>
+            <select id="SemesterId" name="SemesterId" class="form-control" style="width: 273px;">
+                <option selected disabled>--Select Semester--</option>
+                @foreach (Semester aSemester in semesters)
+                {
+                    <option value="@aSemester.Id">@aSemester.Name</option>
+                }
+
+            </select>
+
+        </div>
+
+
+        <button type="submit" onclick="" class="btn btn-success mr-2" value="SaveCourse" style="width: 100px;">Save</button>
+        <br />
+        <div style="color: green"> @message</div>
+    </div>
+}
+
+@section scripts
+{
+
+  <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#SaveCourseForm").validate({
+                errorClass: 'field-validation-error',
+                rules: {
+                    Code: {
+                        required: true,
+                        minlength: 5
+
+                    },
+                    Name: "required",
+                    Credit: {
+                        required: true,
+                        min: 0.5,
+                        max: 5.00
+                    },
+
+
+
+                    DepartmentId: "required",
+                    SemesterId: "required"
+                },
+                messages:
+            {
+                Code: {
+                    required: "Please provide a course code",
+                    minlength:
+                "Minimum code length 5"
+
+                },
+
+                Name: "Please provide a course name",
+                Credit:
+            {
+                required: "Please provide a credit",
+                min: "Minimum credit is: 0.5",
+                max: "Maximum credit is: 5.00"
+            },
+                DepartmentId: "Please select a Department from the list",
+                SemesterId: "Please select a semester from the list"
+            }
+            });
+        });
+    </script>
+}

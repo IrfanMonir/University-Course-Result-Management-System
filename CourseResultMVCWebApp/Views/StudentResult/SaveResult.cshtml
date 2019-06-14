@@ -1,0 +1,134 @@
+﻿@using CourseResultMVCWebApp.Models
+
+@{
+    
+    List<Student> students = ViewBag.Students;
+  
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save</title>
+</head>
+<body>
+
+
+<form method="POST" id="ViewResultForm">
+    <legend>Save Student Result</legend>
+    <div class="form-group">
+        <label for="studentId">Student :</label>
+        <select id="studentId" name="studentId" class="form-control">
+            <option selected disabled>--Select Student--</option>
+            @foreach (Student student in students)
+            {
+                <option value="@student.Id">@student.Name</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Name">Name :</label>
+        <input class="form-control" disabled="disabled" type="text" id="Name" name="Name"/>
+    </div>
+    <div class="form-group">
+        <label for="Email">Email :</label>
+        <input class="form-control" type="text" disabled="disabled" id="Email" name="Email"/>
+    </div>
+    <div class="form-group">
+        <label for="Department">Department :</label>
+        <input class="form-control" type="text" disabled="disabled" id="Department" name="Department"/>
+    </div>
+    <div class="form-group">
+        <label for="courseId">Select Course</label>
+        <select id="courseId" name="courseId" class="form-control">
+            <option value="">--Select--</option>
+
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="grade">Grade</label>
+
+        <select id="grade" name="grade" class="form-control">
+            <option value="">Select</option>
+            <option value="A+">A+</option>
+            <option value="B+">B+</option>
+            <option value="B">B</option>
+            <option value="B-">B-</option>
+            <option value="C">C</option>
+            <option value="D">‎D</option>
+            <option value="F">F</option>
+        </select>
+
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-success mr-2" style="width : 100px">Save</button>
+
+    </div>
+
+</form>
+<br/>
+    <div style="color: green">@ViewBag.Message</div>
+    
+
+    @section scripts{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+        <script>
+            $(function() {
+                $("#resultTable").hide();
+                $('#studentId').on('change', function() {
+                    var studentId = $('#studentId').val();
+                    $("#resultTable").show();
+                    $("#tableBody").empty();
+                    $("#courseId").empty();
+                    //   alert(studentId);
+                    var json = { studentId: studentId };
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetStudentByRegNo", "Student")',
+                        contentType: 'application/json',
+                        data: JSON.stringify(json),
+                        success: function(response) {
+                            $('#Name').val(response.Name);
+                            $('#Email').val(response.Email);
+                            $('#Department').val(response.Department);
+                        }
+                    });
+                    $.ajax({
+                        type: "POST",
+                        url: '/StudentResult/GetCourseByStudent',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+
+                        success: function(data) {
+                            $("#courseId").append('<option value="">--Select --</option>');
+                            $.each(data, function(key, value) {
+                                $("#courseId").append('<option value=' + value.CourseId + '>' + value.Course + '</option>');
+                            });
+                        }
+                    });
+                });
+
+            });
+        </script>
+        <script>
+            $("#ViewResultForm").validate({
+                errorClass: 'field-validation-error',
+                rules: {
+                    studentId: "required",
+                    courseId: "required",
+                    grade: "required"
+                },
+                messages: {
+                    studentId: "Please select student",
+                    courseId: "Please Select a course",
+                    grade: "Please put a grade"
+                }
+            });
+        </script>
+    }
+</body>
+</html>

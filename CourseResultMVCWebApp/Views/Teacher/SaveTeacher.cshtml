@@ -1,0 +1,170 @@
+﻿@using CourseResultMVCWebApp.Models
+
+@{
+    ViewBag.Title = "SaveTeacher";
+    List<Department> departments = ViewBag.Departments;
+    List<TeacherDesignation> designations = ViewBag.Designations;
+    string message = ViewBag.message;
+    string email = ViewBag.email;
+}
+
+@if (message == "Saved Successfully")
+{
+    <div class="alert alert-success">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Success!</strong> Teacher Save Successfully.
+    </div>
+}
+else if (message == "Saving Failed")
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Failed!</strong>Teacher Save Failed.
+    </div>
+}
+else if (message == "Email Already Exists")
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Failed!</strong> "@email" already have in your teacher list.
+    </div>
+}
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "SaveTeacherForm" }))
+{
+    <div>
+        <legend>Save Teacher</legend>
+
+        <div class="form-group">
+
+            <label for="Name">Name :</label>
+            <input class="form-control" type="text" id="Name" name="Name" />
+
+        </div>
+
+        <div class="form-group">
+            <label for="Address">Address :</label>
+            <input class="form-control" type="text" id="Address" name="Address" />
+
+        </div>
+
+
+        <div class="form-group">
+
+            <label for="Email">Email :</label>
+
+            <input class="form-control" type="text" id="Email" name="Email" />
+        </div>
+
+        <div class="form-group">
+
+            <label for="ContactNumber">Contact No. :</label>
+
+            <input class="form-control" type="text" id="ContactNumber" name="ContactNumber" />
+        </div>
+
+        <div class="form-group">
+
+            <label for="DesignationId">Designation :</label>
+            <select id="DesignationId" name="DesignationId" class="form-control" style="width: 280px;">
+                <option selected disabled>--Select Designation--</option>
+                @foreach (TeacherDesignation aDesignation in designations)
+                {
+                    <option value="@aDesignation.Id">@aDesignation.Designation</option>
+                }
+
+            </select>
+
+        </div>
+
+
+
+
+
+        <div class="form-group">
+
+            <label for="DepartmentId">Department :</label>
+            <select id="DepartmentId" name="DepartmentId" class="form-control" style="width: 280px;">
+                <option selected disabled>--Select Department--</option>
+                @foreach (Department aDepartment in departments)
+                {
+                    <option value="@aDepartment.Id">@aDepartment.Name</option>
+                }
+
+            </select>
+
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="CreditToBeTaken">Credit To Be Taken :</label>
+
+            <input class="form-control" type="text" id="CreditToBeTaken" name="CreditToBeTaken" />
+        </div>
+
+
+
+        <button type="submit" onclick="" class="btn btn-success mr-2" value="SaveTeacher" style="width: 100px;">Save</button>
+        <br />
+        <div style="color: green"> @message</div>
+    </div>
+}
+
+@section scripts
+{
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+
+
+    <script>
+        $(document).ready(function () {
+            $("#SaveTeacherForm").validate({
+                errorClass: 'field-validation-error',
+                rules: {
+                    Name: {
+                        required: true,
+
+
+                    },
+                    Address: "required",
+                    Email: {
+                        required: true,
+                        email: true
+                    },
+                    ContactNumber: "required",
+
+                    DesignationId: "required",
+                    DepartmentId: "required",
+                    CreditToBeTaken: "required"
+
+                },
+                messages:
+            {
+                Name: {
+                    required: "Please provide a name",
+
+
+                },
+
+                Address: "Please provide an address ",
+                Email:
+            {
+                required: "Please provide an email",
+                email: "Provide a correct email"
+            },
+                ContactNumber: "Please provide a contact number",
+                DesignationId:
+       "Please select a designation from the list",
+                DepartmentId:
+                    "Please select a Department from the list",
+                CreditToBeTaken: "please provide credit to be taken"
+
+            }
+            });
+        });
+    </script>
+}
+
+

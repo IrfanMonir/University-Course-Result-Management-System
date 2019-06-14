@@ -1,0 +1,148 @@
+﻿@using CourseResultMVCWebApp.Models
+
+@{
+    ViewBag.Title = "EnrollCourse";
+    List<Student> students = ViewBag.Students;
+}
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "EnrollCourse" }))
+{
+
+    <div>
+        <legend>Enroll Course</legend>
+
+        <div class="form-group">
+
+            <label for="studentId">Student Reg. No. :</label>
+            <select id="studentId" name="studentId" class="form-control" >
+                <option selected disabled>--Select Student--</option>
+                @foreach (Student aStudent in students)
+                {
+                    <option value="@aStudent.Id">@aStudent.RegNo</option>
+                }
+
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Name">Name :</label>
+            <input class="form-control" type="text" id="Name" name="Name" disabled="disabled" />
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="Email">Email :</label>
+            <input class="form-control" type="text" id="Email" name="Email" disabled="disabled" />
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="Department">Department</label>
+            <input class="form-control" id="Department" name="Department" type="text" value="" disabled="disabled" />
+        </div>
+
+
+        <div class="form-group">
+
+            <label for="CourseId">Select Course :</label>
+            <select class="form-control disabled" id="CourseId" name="CourseId"></select>
+
+        </div>
+
+
+        <div class="form-group">
+
+            <label for="Date">Date :</label>
+            <input class="form-control" type="Date" id="Date" name="Date" />
+
+        </div>
+
+
+
+        @*<div class="form-group">
+
+
+            @Html.LabelFor(m => m.EnrollDate)
+            @Html.TextBoxFor(m => m.EnrollDate, new { @class = "form-control", @placeholder = "Pick a Date", @readonly = "readonly" })
+            @Html.ValidationMessageFor(m => m.EnrollDate)
+        </div>*@
+
+
+
+        <button type="submit" class="btn btn-success mr-2" value="EnrollCourse" style="width: 100px;">Enroll</button>
+        <br />
+        <div style="color: green"> @ViewBag.Message</div>
+    </div>
+}
+
+@section scripts{
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<@*script type="text/javascript">
+    $(function () {
+        $('#Date').datepicker({ dateFormat: 'dd/MM/yy' }).val();
+        $('#Date').datepicker('setDate', new Date());
+    });
+</script>*@
+
+    <script>
+    $(document).ready(function () {
+        $("#EnrollCourse").validate({
+            errorClass: 'field-validation-error',
+            rules: {
+                studentId: "required",
+                CourseId: "required",
+                Date: "required"
+            },
+            messages: {
+                studentId: "Please select a registration number",
+                CourseId: "Please select a course",
+                Date:"Please select a date"
+            }
+        });
+    });
+    </script>
+
+
+
+
+    <script>
+        $(function() {
+            $('#studentId').on('change', function() {
+                var studentId = $('#studentId').val();
+                $("#CourseId").empty();
+                var json = { studentId: studentId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentByRegNo", "EnrollCourse")',
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function(response) {
+                        $('#Name').val(response.Name);
+                        $('#Email').val(response.Email);
+                        $('#Department').val(response.Department);
+                    }
+                });
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseByStudentId","EnrollCourse")',
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        $("#CourseId").append('<option value="">--Select a Course--</option>');
+                        $.each(data, function (key, value) {
+                            $("#CourseId").append('<option value=' + value.Id + '>' + value.Code + '</option>');
+                        });
+                    }
+                });
+
+
+            });
+
+        });
+    </script>
+
+
+}

@@ -1,0 +1,70 @@
+﻿@using CourseResultMVCWebApp.Models
+
+@{
+    Student student = ViewBag.Student;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowStudentInfo</title>
+
+</head>
+<body>
+<div>
+    <h1 >Student info:</h1>
+    <div>
+        <dl class="dl-horizontal">
+            <dt>
+                <label class="col-md-4 control-label" for="Name">Name</label>
+            </dt>
+
+            <dd>
+                <label class="col-md-4 control-label" for="Name">@student.Name</label>
+            </dd>
+            <dt>
+                <label class="col-md-4 control-label" for="Email">Email</label>
+
+            </dt>
+
+            <dd>
+                <label class="col-md-4 control-label" for="Email">@student.Email</label>
+            </dd>
+            <dt>
+                <label class="col-md-4 control-label" for="ContactNo">Contact No.</label>
+            </dt>
+
+            <dd>
+                <label class="col-md-4 control-label" for="ContactNo">@student.ContactNumber</label>
+            </dd>
+            <dt>
+                <label class="col-md-4 control-label" for="Department">Department</label>
+            </dt>
+
+            <dd>
+                <label class="col-md-4 control-label" for="Department">@student.Department</label>
+            </dd>
+            <dt>
+                <label class="col-md-4 control-label" for="RegNo">Reg No.</label>
+            </dt>
+
+            <dd>
+                <label class="col-md-4 control-label" for="RegNo">@student.RegNo</label>
+            </dd>
+            <dt>
+                <label class="col-md-4 control-label" for="Address">Address</label>
+            </dt>
+
+            <dd>
+                <label class="col-md-4 control-label" for="Address">@student.Address</label>
+            </dd>
+        </dl>
+
+
+    </div>
+    <!-- /.box-body -->
+
+</div>
+</body>
+</html>

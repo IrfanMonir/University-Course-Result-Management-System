@@ -1,0 +1,73 @@
+﻿@using CourseResultMVCWebApp.Models
+
+@{
+    Layout = null;
+    ViewBag.Title = "ShowResult";
+    List<StudentResultViewModel> studentResults = ViewBag.Result;
+    Student student = ViewBag.Student;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Example 1</title>
+    <link href="~/Content/marksheet.css" rel="stylesheet" />
+</head>
+<body>
+    <header class="clearfix">
+        <div id="logo">
+            <img src="~/Content/logo1.png" />
+        </div>
+        <h1>Result Sheet</h1>
+        <div id="company" class="clearfix">
+            <div id="date"></div>
+           
+        </div>
+        <div id="project">
+            <div><span>Name: </span> @student.Name</div>
+            <div><span>Email: </span> @student.Email</div>
+            <div><span>Regi. No: </span> @student.RegNo</div>
+            
+        </div>
+    </header>
+    <main>
+        <table>
+            <thead>
+                <tr>
+                    <th class="service">Course Code</th>
+                    <th class="desc">Course Name</th>
+                    <th>Grade</th>
+                </tr>
+            </thead>
+            <tbody>
+            
+                @foreach (StudentResultViewModel studentResult in studentResults)
+                {
+                    <tr>
+                        <td class="service">@studentResult.CourseCode</td>
+                        <td class="desc">@studentResult.CourseName</td>
+                        <td class="unit">@studentResult.Grade</td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+        <div id="notices">
+            <div>NOTICE:</div>
+            <div class="notice"> The subjects which is not published are lebelled with "Not Graded Yet"</div>
+        </div>
+    </main>
+<footer>
+    Result sheet was created on a computer and is valid without the signature and seal.
+</footer>
+
+    <script>
+        n = new Date();
+        y = n.getFullYear();
+        m = n.getMonth() + 1;
+        d = n.getDate();
+        document.getElementById("date").innerHTML = "Date: " + m + "/" + d + "/" + y;
+    </script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+﻿@{
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Show</title>
+
+   
+</head>
+<body>
+<div>
+    <fieldset>
+        <legend>View Schedule</legend>
+
+
+        @using (Html.BeginForm(null, null, FormMethod.Post, new { @class = "form-horizontal", id = "viewSchedule" }))
+        {
+
+            <div class="form-group">
+
+                <label class="col-md-4 control-label" for="departmentId">Department</label>
+                <div class="col-md-4">
+                    <select class="form-control" name="departmentId" id="departmentId">
+                        <option value="">--Select--</option>
+                        @foreach (var department in ViewBag.Departments)
+                        {
+                            <option value="@department.Id">@department.Code</option>
+                        }
+                    </select>
+                </div>
+
+            </div>
+        }
+        <br/>
+        <table id="tId" class="table table-bordered table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>Course Code</th>
+                    <th>Name</th>
+                    <th>Schedule Info</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+        </table>
+    </fieldset>
+</div>
+    @section scripts
+{
+        <script>
+            $(document).ready(function() {
+                $("#tId").hide();
+                $("#departmentId").change(function() {
+                    var deptId = $("#departmentId").val();
+                    $("#tId").show();
+                    $("#tableBody").empty();
+                    var json = { departmentId: deptId };
+                    $.ajax({
+                        type: "POST",
+                        url: '/AllocateClassroom/GetCoursesByDepartmentId',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function(data) {
+                            $.each(data,
+                                function(key, value) {
+                                    $("#tableBody").append('<tr><td>' +
+                                        value.Code +
+                                        '</td><td>' +
+                                        value.Name +
+                                        '</td><td>' +
+                                        value.RoomInfo +
+                                        '</td></tr>');
+                                });
+                        }
+                    });
+                });
+            });
+        </script>
+        }
+</body>
+</html>

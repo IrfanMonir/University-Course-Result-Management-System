@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.navbar-color {
+    background-color: #435284;
+    border-color: #080808;
+}
+.navbar-toggle {
+    background-color: #435284;
+    border: 1px solid #272525;
+}
+.navbar-toggle .icon-bar {
+    background-color: white;
+}
+a {
+    color: white;
+}
+

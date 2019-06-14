@@ -1,0 +1,115 @@
+﻿@using CourseResultMVCWebApp.Models
+@{
+
+    List<Student> students = ViewBag.Students;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewResult</title>
+</head>
+<body>
+    <fieldset>
+        <legend>View Result</legend>
+
+        <form method="POST" id="ViewResultForm"></form>
+        <div class="form-group">
+            <label for="studentId">Student Reg. No.</label>
+            <select id="studentId" class="form-control" name="studentId" class="form-control">
+                <option value="">--Select--</option>
+                @foreach (Student student in students)
+                {
+                    <option value="@student.Id">@student.RegNo</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Name">Name :</label>
+            <input class="form-control" disabled="disabled" type="text" id="Name" name="Name"/>
+        </div>
+        <div class="form-group">
+            <label for="Email">Email :</label>
+            <input class="form-control" type="text" disabled="disabled" id="Email" name="Email"/>
+        </div>
+        <div class="form-group">
+            <label for="Department">Department :</label>
+            <input class="form-control" type="text" disabled="disabled" id="Department" name="Department"/>
+        </div>
+        @*<div class="form-group">
+        <label class="col-md-4 control-label" for="MakePdf"></label>
+            </div>*@
+            <div class="col-md-4">
+                <a href="@Url.Action("GeneratePdf", "Student")"><button type="submit" id="MakePdf" name="MakePdf" class="btn btn-success mr-2">Make PDF</button></a>
+            </div>
+          </fieldset>
+
+        <table id="resultTable" class="table table-bordered table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>Course Code</th>
+                    <th>Name</th>
+                    <th>Grade</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+        </table>
+   
+
+    @section scripts{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $("#ViewResultForm").validate({
+            rules: {
+                studentId: "required"
+            },
+            messages: {
+                studentId: "Please select a student"
+            }
+        });
+    </script>
+        
+        <script>
+            $(function() {
+                $("#resultTable").hide();
+                $('#studentId').on('change', function() {
+                    var studentId = $('#studentId').val();
+                    $("#resultTable").show();
+                    $("#tableBody").empty();
+                    //   alert(studentId);
+                    var json = { studentId: studentId };
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetStudentByRegNo", "Student")',
+                        contentType: 'application/json',
+                        data: JSON.stringify(json),
+                        success: function(response) {
+                            $('#Name').val(response.Name);
+                            $('#Email').val(response.Email);
+                            $('#Department').val(response.Department);
+
+                        }
+                    });
+                    $.ajax({
+                        type: "POST",
+                        url: '/Student/GetStudentResultByStudentId',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function(data) {
+                            $.each(data, function(key, value) {
+                                $("#tableBody").append('<tr><td>' + value.CourseCode + '</td><td>' + value.CourseName + '</td><td>' + value.Grade + '</td></tr>');
+
+                            });
+                        }
+                    });
+                });
+
+            });
+        </script>
+     
+    }
+</body>
+</html>

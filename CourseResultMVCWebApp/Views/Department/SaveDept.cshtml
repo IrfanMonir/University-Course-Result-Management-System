@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Save Department";
+   
+
+}
+  
+
+
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "departmentForm" }))
+{
+    <div style="font-size: 10px">
+        Department > Save Department
+    </div>
+    <br/><br/>
+    <div>
+        <legend>Save Department</legend>
+
+        <div class="form-group">
+
+            <label for="Code">Code :</label>
+            <input class="form-control" type="text" id="Code" name="Code" placeholder="Enter departemt code here. Ex: CSE" />
+
+        </div>
+
+        <div class="form-group">
+            <label for="Name">Name :</label>
+            <input class="form-control" type="text" id="Name" name="Name" placeholder="Enter department name here" />
+
+        </div>
+        <button type="submit" onclick="" class="btn btn-success mr-2" value="Save" style="width: 100px;">Save</button>
+        <br />
+        <div style="color: green">@ViewBag.Message</div>
+    </div>
+}
+@section scripts{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#departmentForm").validate({
+                errorClass: 'field-validation-error',
+                rules: {
+                    Code: "required",
+                    Name: "required"
+                },
+                messages: {
+                    Code: "Please enter code",
+                    Name: "Please enter department name"
+                }
+            });
+        });
+    </script>
+}

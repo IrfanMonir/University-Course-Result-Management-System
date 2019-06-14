@@ -1,0 +1,70 @@
+﻿@using CourseResultMVCWebApp.Models
+@{
+
+    List<Department> departments = ViewBag.Departments;
+    List<CourseStaticViewModel> courses = ViewBag.Courses;
+}
+
+
+
+
+
+        <form>
+            <legend>Course Static</legend>
+
+            <label  for="DepartmentId">Department :</label>
+            <select id="DepartmentId" name="DepartmentId" class="form-control" style="width: 280px;">
+                <option selected disabled>--Select Department--</option>
+                @foreach (Department aDepartment in departments)
+                {
+                    <option value="@aDepartment.Id">@aDepartment.Name</option>
+                }
+
+            </select>
+            <br/><br/>
+
+            <table id="courseTable" class="table table-bordered table-hover table-striped">
+                <thead>
+                <tr>
+                    <th>Code</th>
+                    <th>Name/Title</th>
+                    <th>Semester</th>
+                    <th>AssignedTo</th>
+                </tr>
+                <tr></tr>
+
+                </thead>
+                <tbody id="tableBody"></tbody>
+            </table>
+        </form>
+  
+    @section scripts{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+
+        <script>
+            $(function () {
+                $("#courseTable").hide();
+                $('#DepartmentId').on('change', function () {
+                    var departmentId = $('#DepartmentId').val();
+                    $("#courseTable").show();
+                    $("#tableBody").empty();
+                   // alert(departmentId);
+                    var json = { DepartmentId: departmentId };
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetCourseStatic", "Course")',
+                        contentType: 'application/json',
+                        data: JSON.stringify(json),
+                        success: function(response) {
+                            $('#tableBody').empty();
+                            $.each(response, function(key, value) {
+                                $('#tableBody').append('<tr><td>'+value.Code+'</td><td>'+value.Name+'</td><td>'+value.Semester+'</td><td>'+value.AssignedTo+'</td></tr>');
+                            });
+                        }
+                    });
+                });
+            });
+        </script>
+    }
+
